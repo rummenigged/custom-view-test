@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="customViewTitle" format="string" />
+        <attr name="customViewSubtitle" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="DropdownLayout">
+        <attr name="dropdownTitle" format="string" />
+        <attr name="dropdownSubtitle" format="string" />
+        <attr name="dropdownIconDown" format="reference" />
+        <attr name="dropdownIconUp" format="reference" />
+    </declare-styleable>
+</resources>

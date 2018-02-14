@@ -1,0 +1,20 @@
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/customview_textview_title"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="asdasdasdasd"/>
+
+    <TextView
+        android:id="@+id/customview_textview_subtitle"
+        android:textColor="@color/colorAccent"
+        android:textSize="16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="asdasdasdasd"/>
+
+</merge>
